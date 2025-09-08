@@ -12,11 +12,12 @@
 
 ## 📖 Recursos
 
-- [![Ver Guías](https://img.shields.io/badge/Ver_Guías-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/Centro-de-Adobe-Creative-Pro/.github)
-- [![Iniciar Soporte](https://img.shields.io/badge/Iniciar_Soporte-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/Centro-de-Adobe-Creative-Pro/Centro-de-arte-de-Photoshop)
+<a href="https://github.com/Centro-de-Adobe-Creative-Pro/Centro-de-arte-de-Photoshop" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
 ## 🔎 Palabras Clave
 
-photoshop 2025, diseño gráfico, guías de edición, herramientas pc, soporte diseño
+photoshop 2025, software de edición de imágenes, guías de diseño, herramientas de mejora de fotos, programas de diseño windows, anulación de edición, software creativo, herramientas pc edición, consejos photoshop, guía de programas de diseño, software edición windows, anulación de imágenes, software para edición, guía pc edición, photoshop 2025 consejos, soporte herramientas diseño, consejos edición windows, programas creativos, consejos software edición, comunidad photoshop anulación
